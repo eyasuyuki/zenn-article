@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../akkademy-db" value="1480318821000" />
+        <entry key="$PROJECT_DIR$/../ebean-set-max-rows-fetch-bug" value="1488773367000" />
+        <entry key="$PROJECT_DIR$/../foy2016" value="1483495300000" />
+        <entry key="$PROJECT_DIR$/../my-play-java" value="1477471921000" />
+        <entry key="$PROJECT_DIR$/../play-ebean-view-test" value="1486523832000" />
+        <entry key="$PROJECT_DIR$/../play-progless-proto/ebean-relations" value="1480046870000" />
+        <entry key="$PROJECT_DIR$/../progless-alpha" value="1481512064000" />
+        <entry key="$PROJECT_DIR$/../progless-ph1" value="1487054290000" />
+        <entry key="$PROJECT_DIR$/../progress-alpha" value="1480468697000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
