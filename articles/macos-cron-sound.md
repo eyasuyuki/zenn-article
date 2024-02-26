@@ -28,7 +28,7 @@ published_at: "2024-02-26 13:00"
 
 ![](/images/macos-cron-sound/GarageBand.png)
 
-完成したら```[共有]-[曲を"ミュージック"に]```で"ミュージック"アプリ(Music.app)に共有します。
+完成したら```[共有]-[曲を"ミュージック"に...]```で"ミュージック"アプリ(Music.app)に共有します。
 
 ![](/images/macos-cron-sound/Share2Music.png)
 
