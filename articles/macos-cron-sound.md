@@ -32,7 +32,7 @@ published_at: "2024-02-26 13:00"
 
 ![](/images/macos-cron-sound/Share2Music.png)
 
-アーチスト名やアルバム名も入力しておきます。これは共有後の楽曲ファイルのパス名として使用されます。
+アーティスト名やアルバム名も入力しておきます。これは共有後の楽曲ファイルのパス名として使用されます。
 
 ![](/images/macos-cron-sound/Music.png)
 
