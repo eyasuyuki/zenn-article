@@ -8,7 +8,7 @@ topics:
 - "かんばん"
 - "トヨタ生産方式"
 - "リーン"
-published: true
+published: false
 published_at: "2024-05-20 08:00"
 ---
 
