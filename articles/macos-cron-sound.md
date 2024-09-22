@@ -14,7 +14,9 @@ published_at: "2024-02-26 13:00"
 
 # macOS Sequoia 15.0 以降への注記 (2024/9/20)
 
-macOS Sequoia 15.0以降ではcronの動作が変わったため、以下の方法では上手く動作しません。```launchctl```を使用した方法を別途執筆予定です。
+macOS Sequoia 15.0以降ではcronの動作が変わったため、以下の方法では上手く動作しません。```launchctl```を使用した方法を別途執筆しました。
+
+[macOS Sequoia 15.0以降で平日の定時にチャイムを鳴らす方法](https://zenn.dev/eyasuyuki/articles/macos-sequoia-launchctl-sound)
 
 # macOSの"時計"アプリだとアラームが鳴り止まない
 
