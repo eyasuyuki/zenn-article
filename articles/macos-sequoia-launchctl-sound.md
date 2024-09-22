@@ -121,5 +121,3 @@ cp org.javaopen.chime.plist ~/Library/LaunchAgents/.
 今回作成したplistがログイン項目と機能拡張に登録され有効になっています。
 
 あとは定時に実行されるのを確認しましょう。
-
-
