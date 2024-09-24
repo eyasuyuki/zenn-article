@@ -36,7 +36,7 @@ macOS Sequoia 15.0以降では```cron```がうまく動かないので手順3を
   <dict>
     <key>Label</key>
     <string>org.javaopen.chime</string>
-    <key>Program Arguments</key>
+    <key>ProgramArguments</key>
     <array>
       <string>/usr/bin/afplay</string>
       <string>/Users/yasuyuki/Music/iTunes/iTunes\ Music/Music/Yasuyuki\ ENDO/School\ Sounds/Chime.m4a</string>
